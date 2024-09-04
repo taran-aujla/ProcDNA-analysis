@@ -1,0 +1,198 @@
+
+        SOLUTIONS BY ProcDNA
+        
+    
+        
+    -----Analytics-----
+        
+    Heading --> Market Assessment
+Description --> ProcDNA delivers deep expertise in initiating commercial analytics for any pharmaceutical company using the RWE data. We start with scratching the surface by understanding the market for 3Ps (Patient, Provider, and Payer) in your desired indications. We perform deep analytics across 3Ps to help you understand your market segment holistically and make informed commercial decisions.
+
+Heading --> Patient Journey Quantification
+Description --> Revolutionize patient care with our cutting-edge solution designed to monitor and enhance the patient journey. Elevate medication adherence and refine treatment outcomes through a strategic approach, empowering healthcare providers with the insights needed to make informed decisions.
+
+Heading --> Persistence & Compliance Analysis
+Description --> Elevate business performance by delving deep into drug consumption patterns through a robust analysis of patient-level data aimed at optimizing production processes and distribution channels, and enhancing marketing strategies.
+
+Heading --> Forecasting
+Description --> Enhance strategic planning and operational effectiveness continuously with an advanced forecasting model designed to anticipate market trends and consumer demands, aiming to provide accurate monthly and yearly forecasts that empower businesses to proactively adjust strategies and operations for optimal resource allocation and heightened market responsiveness.
+
+Heading --> Marketing Mix
+Description --> We forge a data-driven path, illuminating your target audience and pinpointing the most impactful channels for your promotions. Our meticulous process strikes the perfect balance between your brand's aspirations and customers' needs, crafting messaging that resonates while respecting their priorities. We translate insights into actionable plans, meticulously crafted to deliver measurable results and optimize your return on investment. Embrace a data-driven approach and witness your promotions grow into powerful expressions of brand success.
+
+Heading --> Patient Opportunity Assessment
+Description --> Leveraging our in-depth expertise in pre/post launch patient analytics, understand the opportunity to onboard the right patient at the right time on your brand. To quantify the patient opportunity, we analyze different valuable metrics in the patient treatment journey such as - relevant patient demographic, preferable drug regimen and the line of treatment, targeted specialty, etc. Eventually, it helps unlock actionable insights and enable better commercial decisions & patient marketing by combining patient interaction and journey with your desired market segment.
+
+Heading --> Market Access Analytics
+Description --> Forecast, track, assess, and enhance the effectiveness of pull-through strategies, sales force activities, account management opportunities, and utilization. Deep-dive into gross-to-net considerations for contracts, rebates, formulary positioning, and refine launch dynamics. Identify opportunities for improved cost-effectiveness methods and obtain actionable insights swiftly by prioritizing value, advancing patient-centricity through analytics-guided evaluations of market access landscapes working in partnership with commercial operations.
+
+Heading --> Market Research
+Description --> We leverage a suite of multivariate tools, including patient simulation, discrete choice, and predictive modeling, to inform strategic and tactical decisions at every stage of brand planning. We support the entire brand lifecycle, from launch plan development to ongoing management, by deploying a range of research methodologies. These include qualitative, in-depth interviews and multivariate quantitative studies covering areas like demand, segmentation, pricing, patient journeys, and performance tracking, and engage with key stakeholders throughout the healthcare space, including physicians, patients, and payers, to ensure actionable insights that drive brand success.
+
+Heading --> Campaign ROI Assessment
+Description --> Enabling the capability to monitor campaign advancement using real-time analytics, evaluating its channels, and incorporating historical assessments along with the latest market surveys to enhance the bottom line for products and services. Our evaluations encompass both pre-campaign initiatives and post-campaign effectiveness, aiming to comprehend the enduring advantages of optimized campaigns while adhering to financial metrics.
+
+Heading --> Size & Structure
+Description --> We prioritize a comprehensive understanding of field force requirements to create a purpose-built structure that precisely meets market demands. Leveraging deep insights into your products, customer base, and geography alignment, we strategically position personnel across balanced territories to maximize your market impact.
+
+Heading --> HCP Affiliation
+Description --> Streamline healthcare network management continuously with a dedicated HCP Affiliation program designed to meticulously track and map the affiliations of healthcare professionals (HCPs) and National Provider Identifiers (NPIs) to their respective hospitals, focusing on continuously updating and maintaining accurate affiliation data to enable healthcare organizations to effectively tailor their engagement strategies and operations, ensuring efficient resource deployment and enhanced network coherence.
+
+Heading --> Incentive Compensation Design
+Description --> Harness the power of our Incentive Compensation offerings to craft and oversee innovative IC plans tailored to brands at different stages of the product life cycle. Key offerings include:
+
+Heading --> Call Plan Design & Refinement
+Description --> Optimize personnel placement and help the sales team achieve strategic goals with a custom-tailored call plan and engagement strategy that fits customer needs. Our method starts by analyzing your customer base and key stakeholders, guiding the design and implementation of strategies and operations.
+
+Heading --> Territory Alignment Design
+Description --> Manage various level of alignments through our automated alignment management platform, providing dynamic functionalities with evolving business landscape and rep movements. Our key offerings include:
+
+Heading --> HCP Segmentation
+Description --> Utilizing extensive data analysis, our services incorporate real-world evidence to categorize physicians according to prescribing patterns, therapeutic preferences, and patient demographics. Our approach involves a profound grasp of brand strategy, providing tactical guidance for physician outreach. This includes delivering consistent, meaningful, and evolving messaging through optimized channel preferences, facilitating strategic decision-making for business.
+
+
+        
+    -----Technology-----
+        
+    Heading not found for this item
+Heading --> Custom Commercial Software
+Description --> Fuel your business evolution with our custom software solutions.  Integrating AI and ML, we optimize precision, streamline operations, and ensure regulatory compliance  in the pharmaceutical realm. Innovate rapidly and make data-driven decisions with our agile, cloud-powered solutions.
+
+Heading --> Industry Reporting Capability
+Description --> Enhance business insights with our specialized Industry Reporting. Expert consultants assist in selecting metrics aligned with your specifics. Our BI experts use tools like Tableau and Power BI, crafting customized dashboards for  informed decision-making. Streamline and enrich your data-driven business.
+
+Heading --> Commercial Data Warehouse
+Description --> A flexible and reliable data foundation is essential for enhancing your organization's decision-making capabilities and supporting your business intelligence and artificial intelligence ambitions. We design data warehouse solutions which are  made to handle, store, and analyze any kind of workload or data, keeping a check on security hazards associated with moving data  between different environments or duplicating data. Our clients can choose to have their data warehouses in their preferred cloud environment, with choices for fully managed or self-managed services.​ ​
+
+Heading --> Marketing Cloud Setup
+Description --> Elevate your life sciences and pharma marketing strategy with ProcDNA's expert guidance.  Specializing in customized Marketing Cloud solutions, including Salesforce Marketing Cloud (SFMC), we utilize industry  insights to create robust infrastructures for enhanced engagement, streamlined communication, and optimized ROI.  
+
+Heading --> Data Governance
+Description --> We provide data governance solution, using which companies can quickly access data for data-driven  decision-making, protect it from illegal access, and ensure regulatory compliance by putting in place an efficient data  governance approach. A complete collection of guidelines, procedures, and instruments for managing an organization's data  assets at every stage of their lifecycle is called data governance. Data governance gives the entire organization better  capabilities for data management, quality, visibility, security, and compliance by coordinating data-related requirements with business strategy.​ ​
+
+Heading --> AWS & Azure Data Lake
+Description --> ​Large data quantities can be managed centrally with the help of data lakes and lake houses. We enable  businesses to have purposeful data lake storage for querying, governance, and sharing and accessing open data formats so  that they can expand analytics and AI. Data Lakes provide the framework for gathering and evaluating unstructured, semi-structured,  and structured data in its original format for long-term archiving as well as for generating insights and forecasts and can process documents, audio, video, logs, texts, social media, sensor data, and video in contrast to traditional data warehouses,  enabling AI, analytics, and app development.​
+
+Heading --> CRM System Setup
+Description --> Navigate life sciences CRM with our expert guidance and comprehensive consulting solutions for seamless implementation​
+
+
+        
+    -----Data Science-----
+        
+    Heading --> Key Opinion Leader Identification
+Description --> In our Key Opinion Leader (KOL) identification project, specialized pipelines meticulously  aggregate data from diverse sources—Social Media, Clinical Trials, and more. Advanced metrics and the Isolation  Forest model uncover intricate relationships, enabling precise identification of top KOLs across various domains for informed decision-making. 
+
+Heading --> Patient Event Prediction
+Description --> As pharmaceutical companies navigate a growing landscape of approved drugs, ProcDNA employs advanced  analytics to pinpoint and engage the right patients. Predicting crucial events in the patient journey, such as therapy  initiation and changes, enables timely interventions by sales, marketing, and support teams, optimizing overall outcomes for physicians and patients alike.
+
+Heading --> Next Best Target/Action
+Description --> Improve customer experience and streamline sales representative decision-making with a predictive model designed to boost product performance through customized weekly triggers for the target physicians, encompassing the ideal mix of channels  and frequencies. 
+
+Heading --> Early Adopter Prediction
+Description --> Launching a new drug or facing a competitor's launch? Success depends on reaching the right  audience at the right time. ProcDNA, through advanced analytics and machine learning, identifies early adopters by analyzing demographic data, historical adoption patterns, and social behavior.​
+
+Heading --> Patient Non-converts Analysis
+Description --> Worried about low conversion due to patients enrolling into your program but dropping out before they convert into full-time commercial opportunities? At ProcDNA, we leverage the power of advanced modeling techniques to gain unprecedented  insights into the conversion funnel, patient behavior, and journey. Our cutting-edge analytics platform processes vast datasets to identify patterns, trends, and potential internal and external barriers to conversion.​
+
+
+        
+        RESOURCES BY ProcDNA
+        
+        
+        
+    -----Case Study-----
+        
+    Heading --> Commercial Effectiveness
+Serial No. --> Case Study 1 - 
+Description --> Streamlined the commercial analytics processes for a mid-size pharma company
+
+Heading --> Commercial Effectiveness, Technology
+Serial No. --> Case Study 2 - 
+Description --> Adopting a digital first marketing strategy to gain an edge in a highly competitive dermatology market
+
+Heading --> Patient Analytics
+Serial No. --> Case Study 3 - 
+Description --> Analyzed reasons for abandonment of new patient prescription for an oral oncology product
+
+Heading --> Market Access
+Serial No. --> Case Study 4 - 
+Description --> Developed a methodology and forecasting process to track 340B sales
+
+Heading --> Commercial Effectiveness
+Serial No. --> Case Study 5 - 
+Description --> Developed a process to target physicians for a rare disease indication
+
+Heading --> Patient Analytics
+Serial No. --> Case Study 6 - 
+Description --> Developed a model to predict patient discontinuation for an oral drug using specialty pharmacy data
+
+Heading --> Technology
+Serial No. --> Case Study 7 - 
+Description --> Integrate MDM Systems while maintaining Independent CRM Platforms of two companies post acquisition​
+
+Heading --> Technology
+Serial No. --> Case Study 8 - 
+Description --> Developed field reports for a pharmaceutical firm working on diabetes medicines
+
+Heading --> Commercial Effectiveness
+Serial No. --> Case Study 9 - 
+Description --> Set up and measured the effectiveness of the sampling program for an oncology product
+
+Heading --> Commercial Effectiveness
+Serial No. --> Case Study 10 - 
+Description --> Measured the effectiveness of the speaker bureau program for an immunology product
+
+Heading --> Commercial Effectiveness, Technology
+Serial No. --> Case Study 11 - 
+Description --> Replaced company wide legacy reporting systems with a state-of-the-art central online platform for field and HQ reporting
+
+Heading --> Commercial Effectiveness
+Serial No. --> Case Study 12 - 
+Description --> Developed an NBA model that recommends the next best actions based on customer behavior
+
+Heading --> Pharma MDM Integration
+Serial No. --> Case Study 13 - 
+Description --> Developing an MDM solution integrated with CRM for an emerging pharma client​
+
+Heading --> Technology
+Serial No. --> Case Study 14 - 
+Description --> Last mile automation of a sales reporting process using RPA
+
+Heading --> Commercial Effectiveness
+Serial No. --> Case Study 15 - 
+Description --> Designed the alignment for the launch of a diagnostic test for rheumatoid arthritis
+
+Heading --> Commercial Effectiveness
+Serial No. --> Case Study 16 - 
+Description --> Developed the size and structure of a neurology product
+
+
+        
+    -----Articles-----
+        
+    Heading --> The next-gen HCP360: Revolutionizing pharma engagement
+Description --> The next-gen HCP360: Revolutionizing pharma engagement
+
+Heading --> Advantages of AI-Powered KOL identification in life sciences
+Description --> Advantages of AI-Powered KOL identification in life sciences
+
+Heading --> Measuring the effectiveness of Omnichannel programs: A question on the minds of many life sciences executives
+Description --> Measuring the effectiveness of Omnichannel programs: A question on the minds of many life sciences executives
+
+
+        
+    -----News-----
+        
+    Time and Location --> Aug 13, 2024 | San Francisco, USA
+News --> ProcDNA has ranked #621 on the Inc. 5000 list of the fastest-growing private companies in America
+Description --> 
+
+Time and Location --> Jul 11, 2024 | Gurugram, India
+News --> ProcDNA Partners with Grow Billion Trees to Expand Environmental Impact 'Enhancing Corporate Social Responsibility with Tree Planting Initiative'
+Description --> ProcDNA is a leading analytics and technology consulting firm dedicated to solving commercial business problems for life sciences companies. Since its founding in 2020, the company has grown significantly and now has a team of over 140 professionals across multiple offices in the United States and India. ProcDNA leverages cutting-edge technology, data analytics, and scientific expertise to empower its clients with the insights they need to succeed. 
+
+Time and Location --> Jul 8, 2024 | Gurugram, India
+News --> ProcDNA Launches Managed Services and Opens New Office
+Description --> ProcDNA is a leading analytics and technology consulting firm dedicated to solving commercial business problems for life sciences companies. Since its founding in 2020, the company has grown significantly and now has a team of over 140 professionals across multiple offices in the United States and India. ProcDNA leverages cutting-edge technology, data analytics, and scientific expertise to empower its clients with the insights they need to succeed. 
+
